@@ -1,0 +1,24 @@
+# Assets/backups must live outside this public repository.
+*.zip
+*.rar
+*.7z
+*.pak
+*.utoc
+*.ucas
+*.uasset
+*.uexp
+*.dll
+*.exe
+*.sav
+*.log
+.env*
+__pycache__/
+*.pyc
+.venv/
+backups/
+payload/
+private/
+state/
+dist/
+build/
+*.egg-info/

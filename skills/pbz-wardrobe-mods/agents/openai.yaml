@@ -1,0 +1,4 @@
+interface:
+  display_name: "影之刃零独立衣柜 MOD"
+  short_description: "制作与修复独立衣柜角色，覆盖动作、语音、头发材质、缩略图和备份验证"
+  default_prompt: "使用 $pbz-wardrobe-mods，按现有已验证方案制作或修复独立衣柜 MOD，保留原衣装与已有角色，先备份并按授权完成验证。"
